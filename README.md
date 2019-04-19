@@ -1,6 +1,6 @@
-# Binary and Multiclass 2 Layer Networks from Scratch 
+# Binary and Multiclass Classifier Networks from Scratch 
 
-(using only numpy)
+(using only numpy and having one hidden layer)
 
 ---
 
@@ -15,4 +15,4 @@
 <p align="center"> 
 <img src="multi_hidden.png">
 </p>
-# Neural_Net
+
