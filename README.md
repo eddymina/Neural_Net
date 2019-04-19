@@ -13,6 +13,6 @@
 
 #### Multiclass Classifier Using (stable) Softmax Activation  
 <p align="center"> 
-<img src="mutli_hidden.png">
+<img src="multi_hidden.png">
 </p>
 # Neural_Net
